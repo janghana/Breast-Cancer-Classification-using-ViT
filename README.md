@@ -1,4 +1,4 @@
-# Comparison of Lesion Interpretation Assistance Performance in Breast MRI Images According to the Configuration of Vision Transformer (ViT)
+# Enhancing Breast Cancer MRI Classification Through Vision Transformer(ViT) and Multi-Marker
 
 ## Project Overview
 This research project, running from September 2023 to December 2023, investigates the effectiveness of Vision Transformer (ViT) configurations in assisting the interpretation of lesions in breast MRI images.
